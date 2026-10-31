@@ -30,6 +30,12 @@ flowchart LR
   REG --> S["scripts/train.py, play.py"]
 ```
 
+## The robot
+
+![Me with the ANYmal D at CROB](media/foto_yo_con_robot.jpg)
+
+*Me with the ANYmal D at the USP Center for Robotics (CROB).*
+
 ## Results
 
 - Catch reward reached 11.8 of a possible 15 after 3000 iterations (training log).
